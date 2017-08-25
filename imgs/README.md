@@ -1,1 +1,1 @@
-This is to host the images used for the frontend coding study.
+This folder is to host the images used for the frontend coding study.
